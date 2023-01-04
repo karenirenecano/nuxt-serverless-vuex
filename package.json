@@ -35,7 +35,7 @@
     "vue-client-only": "^2.0.0"
   },
   "devDependencies": {
-    "nuxt": "^2.6.3",
+    "nuxt": "^2.15.8",
     "serverless-offline": "^4.10.0",
     "serverless-domain-manager": "^3.2.6"
   }
